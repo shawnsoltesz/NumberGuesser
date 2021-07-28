@@ -15,12 +15,16 @@ namespace NumberGuesser
             Console.WriteLine("3. You will indicate whether my guess is Correct, Too High or Too Low");
             Console.WriteLine("Lets begin!");
 
-
         }
 
         static void Main(string[] args)
         {
             DisplayGreeting();
+
+
         }
+
+
     }
 }
+
